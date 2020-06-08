@@ -1,6 +1,4 @@
-## Navigasi
-1. [**Home**](https://mlhmg.github.io/os201/).
-2. [**Url**](https://mlhmg.github.io/os201/url).
+# OS mlhmg
 
 ## Urls
 Untuk mempelajari Sistem Operasi
@@ -9,3 +7,7 @@ Untuk mempelajari Sistem Operasi
 * https://opensource.com/
 * https://www.gnu.org/
 * https://www.tutorialspoint.com/unix_commands/index.html
+
+## Navigasi
+1. [**Home**](https://mlhmg.github.io/os201/).
+2. [**Url**](https://mlhmg.github.io/os201/url).
