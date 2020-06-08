@@ -15,4 +15,4 @@ Karena saya ingin membuat Website GitHub terbaek sepanjang masa
 
 Navigasi
 1. [**Home**](https://mlhmg.github.io/os201/).
-2. [**Url**](https://mlhmg.github.io/os201/url).
+2. [**Url**](https://mlhmg.github.io/os201/URLs).
