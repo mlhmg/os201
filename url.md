@@ -15,4 +15,6 @@ Untuk mempelajari Sistem Operasi
 
 ## Navigasi
 1. [**Home**](https://mlhmg.github.io/os201/).
-2. [**Url**](https://mlhmg.github.io/os201/url).
+2. [**Url**](https://mlhmg.github.io/os201/URLs).
+
+END
